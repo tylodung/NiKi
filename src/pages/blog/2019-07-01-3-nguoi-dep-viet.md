@@ -2,7 +2,7 @@
 templateKey: blog-post
 path: /3-nguoi-dep-viet
 title: 3 người đẹp Việt tiết lộ chế độ ăn giảm cân thành công
-image: 'http://tapchiyoga.com/wp-content/uploads/2015/08/0-1.jpg' 
+image: 'https://i.pinimg.com/originals/3d/71/53/3d715331d892c978b3b36988acc06e21.jpg' 
 tags:
   - Lam dep
 uev: 4.18.3
