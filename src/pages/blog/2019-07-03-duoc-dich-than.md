@@ -2,11 +2,11 @@
 templateKey: blog-post
 path: /duoc-dich-than
 title: Đây chính là 6 lọ kem chống nắng điểm 10 mà bạn nên dùng thử
-image: 'http://1.bp.blogspot.com/-Q8FC5I62Lds/VXhAwqJIjbI/AAAAAAAAALE/9k_5XSwOJJ4/s1600/11416815_690767801029962_1621843306_o.jpg' 
+image: 'http://afamilycdn.com/2018/10/13/maxresdefault-15394007988761762969644.jpg' 
 tags:
   - Lam dep
 uev: 4.18.3
-date: 2019-06-23T13:12:33.962Z
+date: 2019-07-03T13:12:33.962Z
 description:
  
 ---
