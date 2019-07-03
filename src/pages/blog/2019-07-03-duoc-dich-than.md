@@ -2,7 +2,7 @@
 templateKey: blog-post
 path: /duoc-dich-than
 title: Đây chính là 6 lọ kem chống nắng điểm 10 mà bạn nên dùng thử
-image: 'http://afamilycdn.com/2018/10/13/maxresdefault-15394007988761762969644.jpg' 
+image: 'http://junestore.net/image/data/Ch%C3%B3ng%20n%E1%BA%AFng%20Atomy/maxresdefault.jpg' 
 tags:
   - Lam dep
 uev: 4.18.3
