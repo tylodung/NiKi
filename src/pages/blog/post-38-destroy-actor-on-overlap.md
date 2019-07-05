@@ -2,7 +2,7 @@
 templateKey: blog-post
 path: /destroy-actor-on-overlap
 title: Destroy Actor on Overlap
-image: http://www.vibotani.com/Content/Image/Advisory/lam%20trang%20da%20mat%20thuong%201.jpg
+image: https://img.saobiz.net/d/2017/04/ban-trai-cua-hoa-hau-nguyen-thi-thanh-la-ai.jpg
 video: W-vP-tCQcDY
 tags: ["beginner"]
 uev: 4.18.3
