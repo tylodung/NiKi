@@ -6,7 +6,7 @@ image: 'https://i1.wp.com/www.bbcamerica.com/hex/wp-content/blogs.dir/76/files/2
 tags:
   - Lam dep
 uev: 4.18.3
-date: 2019-06-24T13:12:33.962Z
+date: 2019-08-23T13:12:33.962Z
 description:
 
 ---
@@ -14,7 +14,6 @@ description:
 
 Retinol chính là hoạt chất chống lão hóa thần kỳ mà các tín đồ làm đẹp không thể bỏ qua.
  
-![ten buc hinh](http://beautyworld.net.vn/wp-content/uploads/2019/05/1460572482-hbz-skincare-index.jpg "ten buc hinh")
 
 Bấy lâu nay retinol vẫn được coi là hoạt chất chống lão hóa thần kỳ, giúp kích thích da sản sinh collagen, hạn chế sự hình thành nếp nhăn lão hóa. Tuy nhiên đến tận bây giờ nhiều tín đồ làm đẹp vẫn đang phân vân không biết liệu retinol có thực sự hiệu quả hay không. Vậy thì bạn sẽ có ngay câu trả lời khi nhìn hình ảnh người phụ nữ sau 3 năm kiên trì sử dụng retinol dưới đây.
 
